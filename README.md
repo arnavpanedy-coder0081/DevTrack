@@ -50,13 +50,3 @@ The backend includes zero-knowledge style encryption at rest:
    - **Encrypted Backend API:** `http://localhost:5000`
 
 ---
-
-## 🔐 Environment Configuration
-
-Edit `.env` to configure your server port and private authorization key:
-
-```env
-PORT=5000
-MASTER_ACCESS_KEY=dev-secret-key-2026
-NODE_ENV=development
-```
