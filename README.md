@@ -40,18 +40,12 @@ The backend includes zero-knowledge style encryption at rest:
 ---
 
 ## 🚀 Running the Platform
-
-1. Navigate to the project root:
-   ```bash
-   cd "c:\Users\arnav pandey\OneDrive\Desktop\project 2"
-   ```
-
-2. Start both the encrypted backend server and the frontend client concurrently:
+1. Start both the encrypted backend server and the frontend client concurrently:
    ```bash
    npm.cmd run dev
    ```
 
-3. Open your browser:
+2. Open your browser:
    - **Frontend App:** `http://localhost:5173`
    - **Encrypted Backend API:** `http://localhost:5000`
 
